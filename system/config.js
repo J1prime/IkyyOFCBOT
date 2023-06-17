@@ -1,8 +1,8 @@
 const { Function, Scraper } = new (require('@neoxr/neoxr-js'))
 // Owner number
-global.owner = '6282281657946'
+global.owner = '6283813550373'
 // Owner name
-global.owner_name = 'Ikyy Official'
+global.owner_name = 'JFC Official'
 // Database name (Default: database)
 global.database = 'database'
 // Maximum upload file size limit (Default : 100 MB)
@@ -28,9 +28,9 @@ global.timezone = 'Asia/Jakarta'
 // Bot version
 global.version = '1.0.5',
 // Bot name
-global.botname = `© ikyy-bot v${global.version} (Public Bot)`
+global.botname = `© Rimuru-bot v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ɪᴋʏʏᴏғᴄ ッ'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ JFC ッ'
 // Scraper
 global.scrap = Scraper
 // Function
